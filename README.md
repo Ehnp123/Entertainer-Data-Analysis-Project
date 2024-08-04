@@ -18,4 +18,11 @@ Dashboard 1:https://public.tableau.com/app/profile/elizabeth.debbarma/viz/Entert
 
 Dashboard 2:https://public.tableau.com/app/profile/elizabeth.debbarma/viz/EntertainerDataAnalysis_17210667604100/Dashboard2?publish=yes
 
+Dashboard 1:
+
+![Dashboard 1](https://github.com/user-attachments/assets/8b7bc8ed-103d-48f6-ad1f-39f1dd82bd80)
+
+Dashboard 2:
+
+![Dashboard 2](https://github.com/user-attachments/assets/fb282ab0-3f2c-43e7-8791-9ba9c83ee296)
 
